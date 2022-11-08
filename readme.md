@@ -3,8 +3,7 @@
 
 Skema : Pemrograman Software Komputer
 
-## Data Diri
-
-Arum Yulindasari
-2031730056
+## About
+Irba Tsabita Alfafaun Ni'ma
+2031730138
 
